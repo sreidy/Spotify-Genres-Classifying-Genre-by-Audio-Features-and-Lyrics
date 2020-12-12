@@ -1,6 +1,8 @@
 # Spotify-Genres-Classifying-Genre-by-Audio-Features-and-Lyrics
 Author: Sean Reidy
+
 UMBC DATA 601 Fall 2020
+
 Final Project
 
 ![spotify_genre](https://community.spotify.com/t5/image/serverpage/image-id/27674iC82331350312CE8A/image-size/original?v=mpbl-1&px=-1)
