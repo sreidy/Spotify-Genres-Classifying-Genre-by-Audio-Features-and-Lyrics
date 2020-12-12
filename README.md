@@ -5,7 +5,9 @@ Final Project
 
 ![spotify_genre](https://community.spotify.com/t5/image/serverpage/image-id/27674iC82331350312CE8A/image-size/original?v=mpbl-1&px=-1)
 
-This project is an utilizes the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) in conjunction with the [Genius Web API](https://genius.com/developers). exploring, analysing, modeling genre by using  different audio features from 13 different Spotify genres. The report and modeling can be found in.Report.ipynb.
+This project is an utilizes the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) in conjunction with the [Genius Web API](https://genius.com/developers). exploring, analysing, modeling genre by using  different audio features from 13 different Spotify genres.
+
+The report and modeling can be found in [Report.ipynb](https://github.com/sreidy/Spotify-Genres-Classifying-Genre-by-Audio-Features-and-Lyrics/blob/master/Notebooks/Report.ipynb)
 
 The final model is a Random Forest Classifier, with 70% accuracy at predicting genre.
 
@@ -43,10 +45,10 @@ Similar projects and tutorials references on the Spotify Web API and python data
 - Data: Data is not included in this Github repo due to file size restrictions.To Download any of the data used follow this [google drive link](https://drive.google.com/drive/folders/1VDrB8YQwvpXE2hfbGoMrfkSLLyBG92R3?usp=sharing) 
 
 - Notebooks
-	+ Report.ipynb: Notebook containing the report and modeling  
-	+ GettingData.ipynb: Pulling from both the Spotify Web API and the Genius Web API
-	+ EDA.ipynb: Exploritroty 
-	+ FeatureEngineering.ipynb  cleaning, and saving the data, removing outliers. 
+	+ [Report.ipynb](https://github.com/sreidy/Spotify-Genres-Classifying-Genre-by-Audio-Features-and-Lyrics/blob/master/Notebooks/Report.ipynb): Notebook containing the report and modeling  
+	+ [GettingData.ipynb](https://github.com/sreidy/Spotify-Genres-Classifying-Genre-by-Audio-Features-and-Lyrics/blob/master/Notebooks/GettingData.ipynb): Pulling from both the Spotify Web API and the Genius Web API
+	+ [EDA.ipynb](https://github.com/sreidy/Spotify-Genres-Classifying-Genre-by-Audio-Features-and-Lyrics/blob/master/Notebooks/EDA.ipynb): Exploritroty 
+	+ [FeatureEngineering.ipynb]( https://github.com/sreidy/Spotify-Genres-Classifying-Genre-by-Audio-Features-and-Lyrics/blob/master/Notebooks/FeatureEngineering%20.ipynb): cleaning, and saving the data, removing outliers. 
 	
 # Software Requirements & Usage
 
